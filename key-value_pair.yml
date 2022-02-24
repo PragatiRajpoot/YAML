@@ -1,0 +1,6 @@
+#initialization of yaml
+---
+bankname: SBI  # key-value
+accounttype: savings
+holdername: pragati
+--- #end of yaml

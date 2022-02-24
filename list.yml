@@ -1,0 +1,30 @@
+bank-details1:
+  - name: SBI
+    accounttype: savings
+    holdername: pragati
+    branch: fatehpur
+    branchcode: 1440 
+
+  - name: BOB
+    accounttype: savings
+    holdername: kirti 
+    branch: fatehpur
+    branchcode: 1441 
+
+
+bank-details2:
+  - name: Axis bank
+    accounttype: savings
+    holdername: Tripti
+    branch: fatehpur
+    branchcode: 1442
+
+  - name: Allahabad bank
+    accounttype: savings
+    holdername: Harshit
+    branch: fatehpur
+    branchcode: 1443
+
+     
+
+

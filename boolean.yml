@@ -1,0 +1,9 @@
+---
+bank-details:
+  name: SBI
+  accounttype: savings
+  holdername: pragati
+  branch: fatehpur
+  SavingAccount: yes # yes/no , true/false , on/off
+  CurrentAccount: no  
+...

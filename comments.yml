@@ -1,0 +1,9 @@
+---
+# first comment
+bank-details:
+  name: SBI
+  accounttype: savings
+  holdername: pragati
+  branch: fatehpur
+# last comment
+...

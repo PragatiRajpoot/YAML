@@ -1,0 +1,47 @@
+bank-details1:
+  - name: SBI
+    accounttype: savings
+    holdername: pragati
+    branch: fatehpur
+    branchcode: 1440 
+    Code:
+    -MICR Code: 212211002
+    -Ifsc Code: UTI7656644
+
+  - name: BOB
+    accounttype: savings
+    holdername: kirti 
+    branch: fatehpur
+    branchcode: 1441
+    PhoneNumber:
+      -6777744774
+      -8423326812
+        
+
+
+bank-details2:
+  - name: Axis bank
+    accounttype: savings
+    holdername: Tripti
+    branch: fatehpur
+    branchcode: 1442
+    Code:
+       MICR Code: 212211002
+       Ifsc Code: UTI7656644
+
+  - name: Allahabad bank
+    accounttype: savings
+    holdername: Harshit
+    branch: fatehpur
+    branchcode: 1443
+    Code:
+       MICR Code: 212211002
+       Ifsc Code: UTI7656644
+
+bank-name:
+    SBI
+    Axis      
+
+     
+
+
